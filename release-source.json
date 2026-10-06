@@ -1,0 +1,22 @@
+{
+  "target": "swift",
+  "version": "0.1.0",
+  "tag": "v0.1.0",
+  "repository": "https://github.com/AnyOAuth/anyoauth-swift",
+  "release": "https://github.com/AnyOAuth/anyoauth-swift/releases/tag/v0.1.0",
+  "schemaSha256": "1b99cb23da24b2aa0af33d45aadf907de460185671bc29fa61402450e390d6a2",
+  "sourceCommit": "c44e7460cbebe26a6baa00bc6c4ee2f48d69e907",
+  "files": {
+    ".github/workflows/verify.yml": "2a5dcc038427c28e750358d464bf6413b7670229c658e3b23fdd1076bff89c63",
+    ".gitignore": "de3c0bfc38c228c9c7fe37a2726be443fee294a0f46319c6a89005ea8d328c65",
+    "LICENSE": "3c9fac2d1ae230e52ce82ed635341b438e0c4957bc637a1a792c2def5b82c61a",
+    "Package.swift": "567ceadfa6bfea0c69327e932dd9d3a7f599fb42ea77c9b3666baa9995c96df0",
+    "README.md": "e79b1116ed90b2f56287615f13c3c83a7aaf4f22885b663483ca20782238de51",
+    "Sources/AnyOAuth/AnyOAuth.swift": "d85a616cf5bc2555bb5092e1e582c6c0405a2b4c46b362c89108120b1d5df58f",
+    "Sources/conformance/main.swift": "444a2168fcfe0521dc8dd5d33afe2a1080385c638b7499def5b819718bf1a0ad",
+    "Tests/AnyOAuthTests/AnyOAuthTests.swift": "462d794e30636cdbf1c3c026974a1e461a52387c6f0c01cdbc8fe197039ca079",
+    "conformance.test.mjs": "1500c6898fca7ba190f59d08e7c2b8255c14f230b377fe6b6d7034dd89a170a6",
+    "provenance.json": "351d08006cd48d7174467ccde0298f1e0316e6b2be4da6b01962ad8d82b89b11",
+    "verify.mjs": "bf5d6ff952265eb26f3666d93706a67c423c5f620ee580e97370355674c7e83b"
+  }
+}

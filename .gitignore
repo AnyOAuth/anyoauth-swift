@@ -1,0 +1,6 @@
+.build/
+build/
+.gradle/
+.dart_tool/
+.packages
+pubspec.lock
